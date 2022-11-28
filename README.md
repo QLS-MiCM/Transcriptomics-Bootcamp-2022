@@ -1,4 +1,4 @@
-# Transcriptomics-Bootcamp-2022
+# MiCMxHGSS Transcriptomics Bootcamp 2022
 
 ## Beginner Stream
 1. [Intro to RNAseq Formats](https://github.com/McGill-MiCM/MiCM_BootcampF22_IntroRNAseqFormats)
