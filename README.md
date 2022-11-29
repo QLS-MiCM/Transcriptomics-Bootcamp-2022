@@ -7,4 +7,4 @@
 
 ## Advanced Stream
 1. [Intro to Long read RNAseq]()
-2. [scRNAseq clustering and trajectory inference]()
+2. [scRNAseq clustering and trajectory inference](https://github.com/McGill-MiCM/MiCM_BootcampF22_singleCell_Clustering_trajectoryInference)
