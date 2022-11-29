@@ -3,7 +3,7 @@
 ## Beginner Stream
 1. [Intro to RNAseq Formats](https://github.com/McGill-MiCM/MiCM_BootcampF22_IntroRNAseqFormats)
 2. [RNAseq Quantification and Differential Expression Analysis](https://github.com/McGill-MiCM/MiCM_BootcampF22_RNAseqQuantification)
-3. [Intro to single cell technologies]()
+3. [Intro to single cell technologies](https://github.com/McGill-MiCM/MiCM_BootcampF22_Intro_Singlecell)
 
 ## Advanced Stream
 1. [Intro to Long read RNAseq]()
