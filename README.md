@@ -1,3 +1,5 @@
+![](https://www.mcgill.ca/micm/files/micm/moriarty_branding_img.png) ![](https://hgssconference2017.files.wordpress.com/2017/02/hgsslogo-transparent.png?w=778)
+
 # MiCMxHGSS Transcriptomics Bootcamp 2022
 
 ## Beginner Stream
@@ -10,7 +12,21 @@
 2. [scRNAseq clustering and trajectory inference](https://github.com/McGill-MiCM/MiCM_BootcampF22_singleCell_Clustering_trajectoryInference)
 
 
-![](https://www.mcgill.ca/micm/files/micm/moriarty_branding_img.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
