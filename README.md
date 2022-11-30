@@ -8,3 +8,11 @@
 ## Advanced Stream
 1. [Intro to Long read RNAseq](https://github.com/McGill-MiCM/MiCM_BootcampF22_LongRead_RNAseq)
 2. [scRNAseq clustering and trajectory inference](https://github.com/McGill-MiCM/MiCM_BootcampF22_singleCell_Clustering_trajectoryInference)
+
+
+![](https://www.mcgill.ca/micm/files/micm/moriarty_branding_img.png)
+
+
+
+#### Any questions?
+Feel free to contact workshop-micm@mcgill.ca or hgss.pgss@mail.mcgill.ca 
