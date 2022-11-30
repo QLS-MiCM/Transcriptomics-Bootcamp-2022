@@ -1,5 +1,9 @@
 # MiCM x HGSS Transcriptomics Bootcamp 2022
 
+## Schedule
+
+Find the event's schedule [here](https://mcgill-my.sharepoint.com/:b:/g/personal/larisa_moralessoto_mail_mcgill_ca/EVpZqxJlU91Fh2zhst2g64QBLX5B5tnLOxSziSYretT0XQ?e=HCPcvB)
+
 ## Beginner Stream
 1. [Intro to RNAseq Formats](https://github.com/McGill-MiCM/MiCM_BootcampF22_IntroRNAseqFormats)
 2. [RNAseq Quantification and Differential Expression Analysis](https://github.com/McGill-MiCM/MiCM_BootcampF22_RNAseqQuantification)
