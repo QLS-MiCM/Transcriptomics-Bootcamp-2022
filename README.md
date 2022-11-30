@@ -6,5 +6,5 @@
 3. [Intro to single cell technologies](https://github.com/McGill-MiCM/MiCM_BootcampF22_Intro_Singlecell)
 
 ## Advanced Stream
-1. [Intro to Long read RNAseq]()
+1. [Intro to Long read RNAseq](https://github.com/McGill-MiCM/MiCM_BootcampF22_LongRead_RNAseq)
 2. [scRNAseq clustering and trajectory inference](https://github.com/McGill-MiCM/MiCM_BootcampF22_singleCell_Clustering_trajectoryInference)
